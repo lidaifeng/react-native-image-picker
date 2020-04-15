@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\DingDian\\ctzqydcrm\\node_modules\\react-native-image-picker\\android\\build\\intermediates\\res\\merged\\release\\xml\\preferences.xml",
+        "source": "G:\\DingDian\\ctzqydcrm\\node_modules\\react-native-image-picker\\android\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.48.4.3\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "G:\\DingDian\\ctzqydcrm\\node_modules\\react-native-image-picker\\android\\build\\intermediates\\res\\merged\\release\\xml\\provider_paths.xml",
+        "source": "G:\\DingDian\\ctzqydcrm\\node_modules\\react-native-image-picker\\android\\src\\main\\res\\xml\\provider_paths.xml"
+    }
+]
